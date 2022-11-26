@@ -1,4 +1,4 @@
 # This repository consits of:
-Python Crash Course
-Python for Data Analysis
-Python for Data Visualization
+1. Python Crash Course
+2. Python for Data Analysis
+3. Python for Data Visualization
