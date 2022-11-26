@@ -1,2 +1,4 @@
-This repository consits of:
-Here you will find the files to get started with Data Science
+# This repository consits of:
+Python Crash Course
+Python for Data Analysis
+Python for Data Visualization
